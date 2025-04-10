@@ -113,9 +113,7 @@ CREATE TABLE issue (
 - You can add sample data or additional constraints (e.g., `FOREIGN KEY`) as needed for your application logic.
 
 ---
-Here’s the updated **Markdown** format including **Queries 6 to 10**, ready for GitHub:
 
----
 
 ## 📚 – Book Queries (MySQL)
 
