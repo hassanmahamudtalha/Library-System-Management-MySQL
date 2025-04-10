@@ -563,10 +563,6 @@ HAVING borrowed_branch > 1;
 
 ---
 
-Here’s the **GitHub-ready Markdown** for your **Employee-Related SQL Queries**, formatted with syntax highlighting, results, and brief summaries for each question.
-
----
-
 ## 🧑‍💼  Employee Queries (MySQL)
 
 This section covers employee-related queries within the Library Management System. These include tracking book issues, salaries, roles, and identifying top-performing staff across branches.
@@ -785,11 +781,6 @@ WHERE category = 'Fantasy';
 | Michelle Ramirez |
 
 ---
-
-Absolutely! Here's the **GitHub-style Markdown** documentation for **Branch-Related and General Analytical Queries** in your Library Management System project.
-
----
-
 
 ## 🏢 Branch-Related Queries
 
@@ -1111,9 +1102,6 @@ WHERE YEAR(return_date) = 2024;
 
 **Answer:**  
 📦 **Books Returned in 2024:** 15
-
----
-Here’s your final section of **Advanced SQL Queries** formatted in clean GitHub-style **Markdown**, ready for a professional project README. This continues from previous sections and focuses on deeper insights like multi-branch usage, non-returned books, and role-based performance.
 
 ---
 
