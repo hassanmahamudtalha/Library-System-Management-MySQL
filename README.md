@@ -340,10 +340,6 @@ WHERE return_id IS NULL;
 
 ---
 
-Here’s the **GitHub-ready Markdown** for your **Members-Related SQL Queries** section, including **formatted SQL, answers, and summaries**.
-
----
-
 ## 👥  Member Queries (MySQL)
 
 This section includes SQL queries related to **members** in the Library Management System, such as registration trends, borrowing behaviors, and branch-based interactions.
