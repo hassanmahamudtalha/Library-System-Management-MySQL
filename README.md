@@ -1,9 +1,5 @@
 # 📚 Library Management System – MySQL Project
 
-Here’s a **project summary** you can include at the top of your GitHub repository (like in a `README.md`). It provides a clear, concise overview of your **Library Management SQL Analysis** project:
-
----
-
 ### 🔍 Summary
 
 This project focuses on analyzing data from a **Library Management System** using **SQL**. It showcases a comprehensive set of 50+ queries designed to extract meaningful insights from a relational database containing tables like `books`, `issue`, `return`, `employe`, `member`, and `branch`.
